@@ -2,6 +2,8 @@
 
 # Pinokio : produire sur votre tour
 
+<img src="../images/04-pinokio.jpg" alt="" width="100%">
+
 Votre point de départ : allumez votre station de travail. Ici, « local » signifie que le calcul se fait sur cette tour, même si vous la commandez à distance. Le présent guide concerne Pinokio, déjà installé, et non la création d'une nouvelle machine chez Scaleway.
 
 Pinokio est un lanceur : il installe les logiciels nécessaires à une application, la démarre et affiche son interface. Ce n'est pas un modèle de génération. Une application peut faire du calcul local ou appeler un service payant : vérifiez sa fiche avant de l'utiliser. [Présentation officielle](https://raw.githubusercontent.com/pinokiocomputer/docs.pinokio.computer/main/index.md).

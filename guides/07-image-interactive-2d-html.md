@@ -2,6 +2,8 @@
 
 # Un grand tableau à parcourir dans un navigateur
 
+<img src="../images/07-image-2d.jpg" alt="" width="100%">
+
 Vous pouvez commencer avec une image, quelques zones animées et des boutons. HTML place les éléments, CSS règle leur apparence et leur position, JavaScript réagit aux gestes. Une transformation appliquée à un même conteneur fait bouger et grandir ensemble le fond et les éléments posés dessus. [Transformations CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/transform), [vidéo HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video).
 
 **Commencez par une seule image et une seule interaction.** Le fichier [EXEMPLE-TABLEAU-2D.html](EXEMPLE-TABLEAU-2D.html) fourni à côté fonctionne sans installation : ouvrez-le dans votre navigateur. Il contient un dessin de remplacement, un déplacement à la souris ou au doigt, un zoom, une lumière cliquable et un emplacement pour votre vidéo. C'est une maquette à remplacer par votre œuvre.

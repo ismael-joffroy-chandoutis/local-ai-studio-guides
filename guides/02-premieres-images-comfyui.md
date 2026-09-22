@@ -2,6 +2,8 @@
 
 # Vos premières images dans ComfyUI
 
+<img src="../images/02-images.jpg" alt="" width="100%">
+
 L'objectif de cette séance : obtenir une image, en produire une variante, puis garder de quoi refaire les deux. Les réglages ci-dessous sont vérifiés dans la documentation et les workflows officiels disponibles le 23 septembre 2026. Ils n'ont pas été exécutés sur la tour de la résidence pendant cette vérification. Aucun temps de calcul ni pic de mémoire propre à cette machine n'est donc garanti.
 
 ## 1. Ouvrir le bon ComfyUI

@@ -2,6 +2,8 @@
 
 # MiniMax H3 : vidéo, références et conditions d'accès
 
+<img src="../images/05-minimax.jpg" alt="" width="100%">
+
 **Pour la résidence en France, commencez par l'accès en ligne.** Les poids de MiniMax H3 sont téléchargeables, mais leur licence communautaire exclut l'Union européenne. « Poids ouverts » signifie que les fichiers appris par le modèle sont accessibles ; cela ne signifie pas que leur utilisation est autorisée partout. [Licence officielle](https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/LICENSE), [FAQ officielle sur la différence entre API et poids](https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/docs/QA-about-License.md).
 
 ## Ce que H3 permet de faire

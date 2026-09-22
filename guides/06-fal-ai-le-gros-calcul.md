@@ -2,6 +2,8 @@
 
 # fal.ai : lancer un calcul en connaissant son prix
 
+<img src="../images/06-fal.jpg" alt="" width="100%">
+
 fal.ai donne accès à des modèles hébergés, depuis un formulaire dans le navigateur ou depuis un programme. Vous n'avez pas à faire tenir leurs poids dans les 32 Go de votre tour. Utilisez-le pour un modèle absent du local, un calcul trop lourd ou une comparaison ponctuelle. [Démarrage officiel](https://fal.ai/docs/documentation/quickstart).
 
 **Règle : annoncez une estimation et un plafond avant de lancer un lot, puis attendez l'accord du mentor.** Le compte fal.ai du mentor et vos clés OpenRouter plafonnées à 25 $ sont deux budgets distincts. Le plafond OpenRouter ne protège pas une dépense sur fal.ai.

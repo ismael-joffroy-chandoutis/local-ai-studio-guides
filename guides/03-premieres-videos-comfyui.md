@@ -2,6 +2,8 @@
 
 # Vos premières vidéos dans ComfyUI
 
+<img src="../images/03-videos.jpg" alt="" width="100%">
+
 Vous partez d'une image et vous essayez un mouvement court. Ce guide utilise deux modèles locaux : Wan 2.2 TI2V 5B et LTX-2.3. Les workflows indiqués sont ceux de ComfyUI, vérifiés en ligne le 23 septembre 2026. Leur fonctionnement et leur temps de calcul n'ont pas été mesurés sur la tour de la résidence. [Wan dans ComfyUI](https://docs.comfy.org/tutorials/video/wan/wan2_2), [LTX-2.3 dans ComfyUI](https://docs.comfy.org/tutorials/video/ltx/ltx-2-3).
 
 ## 1. Ouvrir la bonne interface et préparer une image

@@ -2,6 +2,8 @@
 
 # Entraîner un LoRA sur vos propres images, de A à Z
 
+<img src="../images/01-lora.jpg" alt="" width="100%">
+
 Guide pour les résident·es. Un LoRA est un fichier d'adaptation d'un modèle à vos images. Travaillez dans la session Windows de la tour : `C:\AI\ai-toolkit`, interface `http://localhost:8675`. Sur votre ordinateur personnel, « localhost » désignerait votre ordinateur ; la [fiche d'installation](la fiche d installation de la tour, interne) n'expose que ComfyUI aux artistes à distance. [Fonctionnement AI Toolkit](https://github.com/ostris/ai-toolkit#ai-toolkit-ui).
 
 Qwen-Image 2.1 est pris en charge, mais un défaut d'apprentissage a été signalé le 21 septembre. Commencez par un essai court et contrôlez son effet, avant de réserver plusieurs heures. La consommation et la durée exactes sur cette tour ne sont pas vérifiées. [Signalement #1054](https://github.com/ostris/ai-toolkit/issues/1054).

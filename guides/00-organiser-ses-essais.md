@@ -2,6 +2,8 @@
 
 # Garder un essai que vous pourrez reprendre
 
+<img src="../images/00-organiser.jpg" alt="" width="100%">
+
 Cette arborescence est une convention d'atelier, à créer dans `C:\AI\essais\vos-initiales\`. Un dossier correspond à une question : « Est-ce que mon LoRA conserve la matière du papier ? » Nommez-le `2026-09-23_papier_qwen21_v01`.
 
 ```text
