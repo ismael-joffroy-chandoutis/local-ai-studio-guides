@@ -1,8 +1,12 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="banner.svg"><img src="banner-light.svg" alt="Local AI studio guides" width="100%"></picture>
+
 [English](README.md) · [Français](README.fr.md)
 
 # Local AI studio guides
 
 Practical, step-by-step guides for artists who want to make images and video with open models on their own machine: training a LoRA on your own photographs, first images and first videos in ComfyUI, Pinokio as the front door to local apps, what MiniMax H3 allows and forbids, fal.ai for the heavy compute, and how to build a navigable 2D image in plain HTML and JavaScript. Written in French in September 2026 for the artists of the Écritures Liquides residency (CENTQUATRE-Paris), where I am the mentor, and checked against current documentation and user reports. Everything is meant to be done by the artist alone, on a Windows workstation with a 32 GB GPU; most of it applies elsewhere.
+
+<img src="monde.jpg" alt="local-ai-studio-guides" width="100%">
 
 The guides are in French, in `guides/`. Each one ends with the sources it was checked against and the date.
 
@@ -15,4 +19,10 @@ The guides are in French, in `guides/`. Each one ends with the sources it was ch
 
 More guides (Pinokio, MiniMax H3, fal.ai, interactive 2D image, archive research for a film) are being added.
 
-License: CC BY-SA 4.0.
+---
+
+State verified on 23 September 2026. Each guide lists the sources it was checked against.
+
+Ismaël Joffroy Chandoutis, 2026. Texts under a [CC BY-SA 4.0](LICENSE) license.
+
+By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).

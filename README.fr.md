@@ -1,8 +1,12 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="banner.svg"><img src="banner-light.svg" alt="Local AI studio guides" width="100%"></picture>
+
 [English](README.md) · [Français](README.fr.md)
 
 # Guides d'atelier IA en local
 
 Des guides pratiques, pas à pas, pour des artistes qui veulent produire des images et des vidéos avec des modèles ouverts sur leur propre machine : entraîner un LoRA sur ses photographies, premières images et premières vidéos dans ComfyUI, Pinokio comme porte d'entrée du local, ce que MiniMax H3 permet et interdit, fal.ai pour le gros calcul, et comment fabriquer une image 2D navigable en HTML et JavaScript simple. Écrits en septembre 2026 pour les artistes de la résidence Écritures Liquides (CENTQUATRE-Paris), dont je suis le mentor, et vérifiés contre la documentation et les retours d'utilisateurs du moment. Tout est fait pour être réalisé par l'artiste seul, sur une station Windows avec une carte de 32 Go ; l'essentiel vaut ailleurs.
+
+<img src="monde.jpg" alt="local-ai-studio-guides" width="100%">
 
 Les guides sont dans `guides/`. Chacun se termine par les sources contre lesquelles il a été vérifié, et la date.
 
@@ -15,4 +19,10 @@ Les guides sont dans `guides/`. Chacun se termine par les sources contre lesquel
 
 D'autres guides arrivent (Pinokio, MiniMax H3, fal.ai, image 2D interactive, recherche d'archives pour un film).
 
-Licence : CC BY-SA 4.0.
+---
+
+État vérifié au 23 septembre 2026. Chaque guide liste les sources contre lesquelles il a été vérifié.
+
+Ismaël Joffroy Chandoutis, 2026. Textes sous licence [CC BY-SA 4.0](LICENSE).
+
+Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
