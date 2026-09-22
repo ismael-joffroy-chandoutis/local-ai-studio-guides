@@ -1,0 +1,16 @@
+# Huit images pour les guides, plus une pour le dépôt
+
+Utilise ton outil de génération d'image (celui du forfait, gpt-image). Pour chaque ligne ci-dessous, génère UNE image 3:2 (paysage), en qualité maximale, et enregistre-la dans ce dossier `images-src/` sous le nom indiqué (PNG). Ne fais rien d'autre : pas de retouche, pas de texte ajouté, pas de fichier hors de ce dossier. Quand les neuf fichiers sont écrits, liste-les avec leur taille et arrête-toi.
+
+Direction artistique commune, à respecter sur chaque image :
+photographie argentique couleur des années 80, Kodak 500T, grain fort, halation légère, couleurs de tireuse ; lumière de film fantastique japonais : sous-exposition douce, tubes fluorescents, lueur d'écrans cathodiques dans la pénombre ; dominante sombre, un seul accent orange par image (une LED, un câble, un vêtement) ; aucun texte lisible ; aucun visage identifiable (personnages de dos, flous, hors champ ou yeux fermés) ; le déplacé structure l'image (objets à la mauvaise taille, chaises au plafond, échelles fausses), élégant, jamais illustratif ni « rendu IA lisse ». Focale normale, cadre frontal, hauteur d'homme.
+
+1. `00-organiser.png` : une chambre d'ado la nuit, des boîtes d'archives en carton empilées jusqu'au plafond, chacune étiquetée d'une petite pastille de couleur (pas de mots), un écran cathodique allumé au sol ; une seule boîte flotte à trente centimètres du sol.
+2. `01-lora.png` : un mur entier de photographies de famille épinglées, toutes légèrement floues, vues de dos par une silhouette assise ; sur la table, une tour d'ordinateur ouverte dont le ventilateur projette une lueur orange ; une des photos est dix fois plus grande que les autres.
+3. `02-images.png` : un bureau sombre, trois écrans cathodiques qui montrent la même image à trois stades (esquisse, forme, photo), une main de dos sur une souris démesurée ; une plante grimpe le long des câbles.
+4. `03-videos.png` : une pièce vide avec un projecteur 16 mm et un moniteur, la même image de rivière figée sur les deux mais l'eau coule seulement sur le moniteur ; un tabouret est collé au plafond.
+5. `04-pinokio.png` : un placard à outils ouvert la nuit, des applications matérialisées en petits appareils électroniques rangés comme des boîtes de pellicule, un seul appareil allumé, LED orange ; les étagères sont légèrement trop hautes pour la pièce.
+6. `05-minimax.png` : une frontière : une salle d'atelier coupée en deux par un rideau de plastique translucide, d'un côté une machine qui tourne, de l'autre la même machine éteinte et couverte d'un drap ; personnage de dos entre les deux.
+7. `06-fal.png` : une cabine téléphonique au milieu d'un salon, un compteur mécanique qui tourne sur le mur, des câbles qui partent par la fenêtre vers un ciel de nuit orangé ; échelle du compteur trop grande.
+8. `07-image-2d.png` : un tableau de la Renaissance immense appuyé contre un mur de chambre, une personne de dos avec une loupe, une petite fenêtre du tableau est en réalité un écran allumé ; le tableau est plus grand que la pièce.
+9. `monde.png` : la chambre-atelier vue de face, une tour d'ordinateur, un moniteur cathodique, une lampe de chevet, une fenêtre de nuit, et une chaise posée au plafond ; silhouette de dos devant l'écran, LED orange sur la tour.

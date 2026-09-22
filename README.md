@@ -16,8 +16,13 @@ The guides are in French, in `guides/`. Each one ends with the sources it was ch
 | 01 | Entraîner un LoRA | From a folder of photographs to a `.safetensors` you can use, with AI Toolkit on Qwen-Image 2.1 or Flux |
 | 02 | Premières images dans ComfyUI | Qwen-Image 2.1 and FLUX.2 on a 32 GB card, seeds, prompts, comparisons |
 | 03 | Premières vidéos dans ComfyUI | Wan 2.2 and LTX-2.3 locally, realistic durations and memory |
+| 04 | Pinokio, le local | Pinokio as the front door to local apps, sharing with a code, what never to expose |
+| 05 | MiniMax H3 | Online use, local weights, LoRA, and the licence that excludes the EU |
+| 06 | fal.ai, le gros calcul | Billing units, September 2026 price marks, estimating a batch, capping spend |
+| 07 | Image interactive 2D en HTML | A navigable large image with moving zones and clicks, no game engine, free hosting |
+| 08 | Chercher des archives pour un film | Method, families of collections, multilingual queries, register, documenting an absence |
+| 09 | Exemples de fonds par pays | Verified collections for Vietnam (1990s), Madagascar (20th c.) and a third case |
 
-More guides (Pinokio, MiniMax H3, fal.ai, interactive 2D image, archive research for a film) are being added.
 
 ---
 
