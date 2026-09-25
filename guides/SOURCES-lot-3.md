@@ -1,8 +1,8 @@
-**Version : v2026-09-23.1 · 23/09/2026 00h54 Paris · sources : web, vérifié**
+**Version : v2026-09-25.1 · 25/09/2026 10h05 Paris · sources : web, vérifié**
 
 # Sources et état des vérifications
 
-Ce relevé accompagne le [guide](GUIDE-CHERCHER-DES-ARCHIVES-POUR-UN-FILM.md) et les [exemples par pays](EXEMPLES-DE-FONDS-PAR-PAYS.md). Contrôle effectué le 23 septembre 2026, heure de Paris. Les pages institutionnelles, les notices de détenteurs et les conditions officielles sont privilégiées. Les deux pages de presse sur Grumpe, la republication vietnamienne et les entrées de dictionnaire ont un rôle plus limité, explicité ci-dessous.
+Ce relevé accompagne le [guide](08-chercher-des-archives-pour-un-film.md) et les [exemples par pays](09-exemples-de-fonds-par-pays.md). Contrôle effectué le 23 septembre 2026, heure de Paris. Les pages institutionnelles, les notices de détenteurs et les conditions officielles sont privilégiées. Les deux pages de presse sur Grumpe, la republication vietnamienne et les entrées de dictionnaire ont un rôle plus limité, explicité ci-dessous.
 
 ## Lire le niveau de preuve
 

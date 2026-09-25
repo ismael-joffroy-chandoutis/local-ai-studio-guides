@@ -1,10 +1,12 @@
-**Version : v2026-09-23.1 · 23/09/2026 00h54 Paris · sources : web, vérifié**
+**Version : v2026-09-25.1 · 25/09/2026 10h05 Paris · sources : web, vérifié**
 
 # Exemples de fonds par pays
 
+<img src="../images/09-fonds.jpg" alt="" width="100%">
+
 Ces dix-huit entrées réunissent des fonds, des collections, une collecte de récits et des ensembles documentaires. Elles ne sont pas toutes des fonds au sens archivistique strict. Elles vous donnent des points d’entrée vérifiés pour trois terrains ; elles ne constituent pas un inventaire national. Le pays désigne le terrain étudié, pas nécessairement le pays de conservation.
 
-Chaque fiche distingue le contenu attesté, l’accès constaté ou annoncé et les droits. Une présentation institutionnelle peut confirmer l’existence d’une collection sans permettre d’en consulter toutes les pièces. « Licence non établie » signifie qu’aucune permission adaptée au film n’a pu être confirmée dans la source examinée. Les ouvertures limitées sont signalées ici et détaillées dans [Sources](SOURCES.md). Pour organiser votre enquête, utilisez [le guide général](08-chercher-des-archives-pour-un-film.md).
+Chaque fiche distingue le contenu attesté, l’accès constaté ou annoncé et les droits. Une présentation institutionnelle peut confirmer l’existence d’une collection sans permettre d’en consulter toutes les pièces. « Licence non établie » signifie qu’aucune permission adaptée au film n’a pu être confirmée dans la source examinée. Les ouvertures limitées sont signalées ici et détaillées dans [Sources](SOURCES-lot-3.md). Pour organiser votre enquête, utilisez [le guide général](08-chercher-des-archives-pour-un-film.md).
 
 ## Vietnam : années 1990
 

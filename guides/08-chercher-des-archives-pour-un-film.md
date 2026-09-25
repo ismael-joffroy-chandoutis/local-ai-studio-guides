@@ -1,10 +1,12 @@
-**Version : v2026-09-23.1 · 23/09/2026 00h54 Paris · sources : web, vérifié**
+**Version : v2026-09-25.1 · 25/09/2026 10h05 Paris · sources : web, vérifié**
 
 # Chercher des archives pour un film
 
+<img src="../images/08-archives.jpg" alt="" width="100%">
+
 Ce guide vous propose de chercher des photographies, des films, des lettres, des dossiers et des récits en fonction d’une question de cinéma. Vous pouvez l’utiliser pour un documentaire, un film hybride ou une enquête dont une partie du sujet reste sans image. La fiche de recherche, l’ordre d’exploration et les durées ci-dessous sont des propositions de travail, pas une norme ni une promesse d’exhaustivité. Les informations sur les collections et les règles de réutilisation sont reliées à leurs sources.
 
-Vous trouverez des points de départ dans [les exemples par pays](09-exemples-de-fonds-par-pays.md), et le détail des vérifications dans [Sources](SOURCES.md). « Vérifié » signifie ici que la source et le contenu indiqué ont été contrôlés en ligne, avec les limites d’accès consignées. Cela ne signifie ni dépouillement intégral ni autorisation de diffusion.
+Vous trouverez des points de départ dans [les exemples par pays](09-exemples-de-fonds-par-pays.md), et le détail des vérifications dans [Sources](SOURCES-lot-3.md). « Vérifié » signifie ici que la source et le contenu indiqué ont été contrôlés en ligne, avec les limites d’accès consignées. Cela ne signifie ni dépouillement intégral ni autorisation de diffusion.
 
 ## 1. Définir ce que vous cherchez, sans décider d’avance ce que vous trouverez
 
